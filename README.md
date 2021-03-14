@@ -1,1 +1,1 @@
-# Wutang
+# Wu-tang-name-generator
